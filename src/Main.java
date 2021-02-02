@@ -16,5 +16,6 @@ public class Main {
             shortestString = shortestString.length() > tmp.length() ? tmp : shortestString;
 
         }
+        System.out.println(shortestString);
     }
 }
